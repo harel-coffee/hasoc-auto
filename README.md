@@ -7,4 +7,12 @@ Colab:
 2) do something
 3) save
 4) File->Save a copy to GitHub
-5) append "src/" to the file name, e.g. "src/test.ipyn"
+5) append "src/" to the file name, e.g. "src/test.ipynb"
+
+
+@article{glazkova2021fine,
+  title={Fine-tuning of Pre-trained Transformers for Hate, Offensive, and Profane Content Detection in English and Marathi},
+  author={Glazkova, Anna and Kadantsev, Michael and Glazkov, Maksim},
+  journal={arXiv preprint arXiv:2110.12687},
+  year={2021}
+}
