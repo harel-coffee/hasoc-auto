@@ -10,9 +10,12 @@ Colab:
 5) append "src/" to the file name, e.g. "src/test.ipynb"
 
 
+Please cite this paper if you use this method or codes:
+```sh
 @article{glazkova2021fine,
   title={Fine-tuning of Pre-trained Transformers for Hate, Offensive, and Profane Content Detection in English and Marathi},
   author={Glazkova, Anna and Kadantsev, Michael and Glazkov, Maksim},
   journal={arXiv preprint arXiv:2110.12687},
   year={2021}
 }
+```
